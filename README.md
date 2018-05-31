@@ -5,8 +5,9 @@ By,
 * Matt San Pedro
 * Saugat Dhungel
 
-Link to deployed version: 
-https://schedio.netlify.com/
+Link to deployed version: https://schedio.netlify.com/
+
+Visit [schedio-server](https://github.com/540376482yzb/schedio_server) to learn more about consumable RESTful apis we used in this project.
 
 ## Purpose
 Schedio is the Greek word for design.  We give users the freedom to design their own traveling itineraries with customizable widgets including:
